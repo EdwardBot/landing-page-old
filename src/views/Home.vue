@@ -3,7 +3,7 @@
     <div class="title">
       <div class="icon">
         <img
-          src="https://cdn.discordapp.com/avatars/747157043466600477/d6139e59d1d99c29f58f1422930d616d.png"
+          src="https://cdn.discordapp.com/avatars/747157043466600477/d6139e59d1d99c29f58f1422930d616d.png?size=256"
           alt="Edward"
         />
       </div>
@@ -121,8 +121,8 @@
       <div class="team">
         <div class="user">
           <img
-            src="https://cdn.discordapp.com/avatars/336233673911173120/b7f4d97ea939cbb5b7c293feb86fd799.png"
-            alt="Bendi profilképe"
+src="https://cdn.discordapp.com/avatars/336233673911173120/b77a1afbeb8a8d9a86ae3ca0533cbbb7.png"            
+alt="Bendi profilképe"
           />
           <h1>Bendi#2924</h1>
           <h4>Fejlesztő és alapító</h4>
@@ -132,7 +132,7 @@
             src="https://cdn.discordapp.com/avatars/454968285373399040/6b672e3ad90725f174ef6f5733fc6f28.png"
             alt="MDavid profilképe"
           />
-          <h1>BTW_MDAVID#9813</h1>
+          <h1>MDavid#4110</h1>
           <h4>Támogató és BFF</h4>
         </div>
         <div class="user">
